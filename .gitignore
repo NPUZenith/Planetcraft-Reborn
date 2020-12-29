@@ -1,0 +1,13 @@
+.minecraft/.mixin-out/*
+.minecraft/crash-reports/*
+.minecraft/journeymap/*
+.minecraft/logs/*
+.minecraft/saves/*
+.minecraft/screenshots/*
+.minecraft/shaderpacks/*
+.minecraft/snapshots-server/*
+.minecraft/texturepacks/*
+.minecraft/options.txt
+.minecraft/optionsof.txt
+.minecraft/usercache.json
+.minecraft/usernamecache.json
