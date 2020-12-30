@@ -1,4 +1,4 @@
-# .minecraft/.mixin.out/*
+.minecraft/.mixin.out/*
 .minecraft/crash-reports/*
 .minecraft/journeymap/*
 .minecraft/logs/*
