@@ -1,4 +1,4 @@
-.minecraft/.mixin.out/*
+# .minecraft/.mixin.out/*
 .minecraft/crash-reports/*
 .minecraft/journeymap/*
 .minecraft/logs/*
@@ -12,7 +12,6 @@
 .minecraft/usernamecache.json
 .minecraft/mods/TheBetweenlands-3.7.2-universal.jar
 instance.cfg
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
 .minecraft/config/*
 
 # Whitelisted from config folder ignore
