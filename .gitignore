@@ -18,3 +18,7 @@
 .minecraft/config/splash.properties
 .minecraft/config/UniqueNames.txt
 instance.cfg
+.minecraft/.mixin.out/audit/mixin_implementation_report.txt
+.minecraft/config/buildcraft/detailed.properties
+.minecraft/.mixin.out/audit/mixin_implementation_report.txt
+instance.cfg
