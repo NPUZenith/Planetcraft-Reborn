@@ -21,3 +21,5 @@ instance.cfg
 # End of whitelist
 
 .minecraft/options.txt
+.minecraft/servers.dat
+.minecraft/servers.dat
