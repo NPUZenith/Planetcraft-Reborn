@@ -15,7 +15,7 @@ difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["F32-1.12.2.zip"]
+resourcePacks:["F32-1.12.2.zip","1.12.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:false
+autoJump:true
 narrator:0
 tutorialStep:none
 key_key.attack:-100
@@ -163,7 +163,7 @@ key_key.xat.trinket_toggle_effect.desc:43
 key_key.xat.magnet_toggle_effect.desc:43
 key_key.xat.trinket_arcing_attack.desc:19
 key_key.xat.aux_key.desc:29
-key_veinminer.key.enable:41
+key_veinminer.key.enable:56
 key_dshuds.keybind.SelectionBox:48
 key_dshuds.keybind.LightLevel:65
 key_dshuds.keybind.ChunkBorders:67
